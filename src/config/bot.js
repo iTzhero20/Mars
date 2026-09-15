@@ -68,7 +68,7 @@ export const botConfig = {
 
     // Embed colors by application status.
     statusColors: {
-      pending: "#FFA500",
+      pending: "#be1d1d",
       approved: "#00FF00",
       denied: "#FF0000",
     },
@@ -94,7 +94,7 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#be1d1d",
-      secondary: "#2F3136",
+      secondary: "#be1d1d",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
